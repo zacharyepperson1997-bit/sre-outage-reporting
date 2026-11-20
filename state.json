@@ -2,9 +2,10 @@
   "active": {
     "2026-11-19-0508": {
       "alerted": false,
+      "first_missing_at": "2026-11-20T03:10:19+00:00",
       "first_seen_at": "2026-11-19T22:10:51+00:00",
       "last_customers_out": 1,
-      "missing_polls": 0,
+      "missing_polls": 1,
       "outageRecID": "2026-11-19-0508",
       "outageStartTime": "2026-11-19T17:07:00-05:00"
     }
