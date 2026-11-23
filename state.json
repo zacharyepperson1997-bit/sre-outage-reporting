@@ -1,47 +1,30 @@
 {
   "active": {
-    "2026-11-22-0539": {
-      "alerted": false,
-      "first_missing_at": "2026-11-22T21:42:58+00:00",
-      "first_seen_at": "2026-11-22T16:06:06+00:00",
-      "last_customers_out": 1,
-      "missing_polls": 1,
-      "outageRecID": "2026-11-22-0539",
-      "outageStartTime": "2026-11-22T08:00:50-05:00"
-    },
-    "2026-11-22-0542": {
-      "alerted": false,
-      "first_missing_at": "2026-11-22T21:42:58+00:00",
-      "first_seen_at": "2026-11-22T16:06:06+00:00",
-      "last_customers_out": 2,
-      "missing_polls": 1,
-      "outageRecID": "2026-11-22-0542",
-      "outageStartTime": "2026-11-22T10:19:37-05:00"
-    },
-    "2026-11-22-0543": {
-      "alerted": false,
-      "first_missing_at": "2026-11-22T21:42:58+00:00",
-      "first_seen_at": "2026-11-22T16:06:06+00:00",
-      "last_customers_out": 22,
-      "missing_polls": 1,
-      "outageRecID": "2026-11-22-0543",
-      "outageStartTime": "2026-11-22T10:32:59-05:00"
-    },
     "2026-11-22-0546": {
       "alerted": false,
+      "first_missing_at": "2026-11-23T01:58:43+00:00",
       "first_seen_at": "2026-11-22T21:42:58+00:00",
       "last_customers_out": 1,
-      "missing_polls": 0,
+      "missing_polls": 1,
       "outageRecID": "2026-11-22-0546",
       "outageStartTime": "2026-11-22T15:57:38.8200000-05:00"
     },
     "2026-11-22-0547": {
       "alerted": false,
+      "first_missing_at": "2026-11-23T01:58:43+00:00",
       "first_seen_at": "2026-11-22T21:42:58+00:00",
       "last_customers_out": 1,
-      "missing_polls": 0,
+      "missing_polls": 1,
       "outageRecID": "2026-11-22-0547",
       "outageStartTime": "2026-11-22T16:30:26-05:00"
+    },
+    "2026-11-22-0549": {
+      "alerted": false,
+      "first_seen_at": "2026-11-23T01:58:43+00:00",
+      "last_customers_out": 1,
+      "missing_polls": 0,
+      "outageRecID": "2026-11-22-0549",
+      "outageStartTime": "2026-11-22T18:59:12-05:00"
     }
   },
   "restored": {
@@ -50,6 +33,15 @@
     },
     "2026-11-21-0537": {
       "restored_at": "2026-11-22T16:06:06+00:00"
+    },
+    "2026-11-22-0539": {
+      "restored_at": "2026-11-23T01:58:43+00:00"
+    },
+    "2026-11-22-0542": {
+      "restored_at": "2026-11-23T01:58:43+00:00"
+    },
+    "2026-11-22-0543": {
+      "restored_at": "2026-11-23T01:58:43+00:00"
     }
   }
 }
