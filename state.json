@@ -2,17 +2,19 @@
   "active": {
     "2026-11-23-0569": {
       "alerted": false,
+      "first_missing_at": "2026-11-24T05:58:41+00:00",
       "first_seen_at": "2026-11-23T22:10:21+00:00",
       "last_customers_out": 1,
-      "missing_polls": 0,
+      "missing_polls": 1,
       "outageRecID": "2026-11-23-0569",
       "outageStartTime": "2026-11-23T16:23:04.5630000-05:00"
     },
     "2026-11-23-0570": {
       "alerted": false,
+      "first_missing_at": "2026-11-24T05:58:41+00:00",
       "first_seen_at": "2026-11-23T22:10:21+00:00",
       "last_customers_out": 1,
-      "missing_polls": 0,
+      "missing_polls": 1,
       "outageRecID": "2026-11-23-0570",
       "outageStartTime": "2026-11-23T16:58:55-05:00"
     }
