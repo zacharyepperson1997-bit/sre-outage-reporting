@@ -1,5 +1,30 @@
 {
-  "active": {},
+  "active": {
+    "2026-11-26-0632": {
+      "alerted": false,
+      "first_seen_at": "2026-11-26T11:22:46+00:00",
+      "last_customers_out": 13,
+      "missing_polls": 0,
+      "outageRecID": "2026-11-26-0632",
+      "outageStartTime": "2026-11-26T02:46:16-05:00"
+    },
+    "2026-11-26-0633": {
+      "alerted": false,
+      "first_seen_at": "2026-11-26T11:22:46+00:00",
+      "last_customers_out": 79,
+      "missing_polls": 0,
+      "outageRecID": "2026-11-26-0633",
+      "outageStartTime": "2026-11-26T02:46:16-05:00"
+    },
+    "2026-11-26-0635": {
+      "alerted": false,
+      "first_seen_at": "2026-11-26T11:22:46+00:00",
+      "last_customers_out": 1,
+      "missing_polls": 0,
+      "outageRecID": "2026-11-26-0635",
+      "outageStartTime": "2026-11-26T02:46:16-05:00"
+    }
+  },
   "restored": {
     "2026-11-19-0508": {
       "restored_at": "2026-11-20T11:29:33+00:00"
